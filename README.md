@@ -1,4 +1,4 @@
-# 👥 py_co_commit
+# 👥 py co commit
 
 An easy way to create a commit with multiple authors. 
 
