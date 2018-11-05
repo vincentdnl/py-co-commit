@@ -12,7 +12,7 @@ It uses this [feature](https://help.github.com/articles/creating-a-commit-with-m
 
 `pip install py_co_commit`
 
-## 🐚 Usage
+## 🐚 Usage
 
 Just use the `py_co_commit` command.
 
