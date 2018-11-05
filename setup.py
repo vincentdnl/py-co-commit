@@ -7,7 +7,7 @@ setup(
     url='https://github.com/vincentdnl/py-co-commit.git',
     author='Vincent Déniel',
     author_email='vincentdnl@users.noreply.github.com',
-    license='MIT',
+    license='apache-2.0',
     packages=['py_co_commit'],
     zip_safe=False,
     entry_points={
